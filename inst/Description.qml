@@ -3,9 +3,9 @@ import JASP.Module
 
 Description
 {
-	name		: "jaspModuleTemplate"
-	title		: qsTr("Jasp Module")
-	description	: qsTr("Examples for module builders")
+	name		: "ccOpex"
+	title		: qsTr("ccOpex")
+	description	: qsTr("Variability Chart")
 	version		: "0.1"
 	author		: "JASP Team"
 	maintainer	: "JASP Team <info@jasp-stats.org>"
